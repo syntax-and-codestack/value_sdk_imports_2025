@@ -173,6 +173,8 @@ public:
   class IMouse;
   class IKeyboard;
   class IBikFile;
+  class ISocket;
+  class IVStrFile;
 }
 
 #endif
