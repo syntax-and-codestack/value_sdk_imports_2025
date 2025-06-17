@@ -175,6 +175,8 @@ public:
   class IBikFile;
   class ISocket;
   class IVStrFile;
+  class IApplicationScriptSheet;
+  class IScheme;
 }
 
 #endif
