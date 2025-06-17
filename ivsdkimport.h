@@ -113,7 +113,7 @@ public:
   class IMapGridFile;
   class IBoolTypeDeclares;
   class IVAudFile;
-
+  class IPhysics;
 }
 
 #endif
