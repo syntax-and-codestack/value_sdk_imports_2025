@@ -168,6 +168,7 @@ public:
   class ISpawn;
   class IPoint;
   class IVertice;
+  class IController;
 }
 
 #endif
