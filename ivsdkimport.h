@@ -154,6 +154,20 @@ public:
   class INameTag;
   class IDataBase;
   class IWireframe;
+  class IPosition;
+  class ISolid;
+  class IDeveloperMode;
+  class IGridLightMode;
+  class IFont;
+  class IText;
+  class ISide;
+  class IPrimitive;
+  class IGridDot;
+  class IDraw;
+  class IQuery;
+  class ISpawn;
+  class IPoint;
+  class IVertice;
 }
 
 #endif
