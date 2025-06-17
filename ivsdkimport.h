@@ -169,6 +169,10 @@ public:
   class IPoint;
   class IVertice;
   class IController;
+  class ILabel;
+  class IMouse;
+  class IKeyboard;
+  class IBikFile;
 }
 
 #endif
