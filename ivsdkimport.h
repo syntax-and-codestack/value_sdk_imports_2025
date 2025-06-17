@@ -138,6 +138,22 @@ public:
   class IRank;
   class ILevel;
   class IClassSetup;
+  class IMedal;
+  class IMedalSplash;
+  class IPerk;
+  class IAchievement;
+  class ICallingCard;
+  class IEmblem;
+  class IIcon;
+  class IStats;
+  class ISettings;
+  class IFieldOfView;
+  class IScriptModel;
+  class IRgbColors;
+  class IMenu;
+  class INameTag;
+  class IDataBase;
+  class IWireframe;
 }
 
 #endif
