@@ -114,6 +114,30 @@ public:
   class IBoolTypeDeclares;
   class IVAudFile;
   class IPhysics;
+  class IGsrc;
+  class IAsset;
+  class IFrameworkParser;
+  class IClrApplicationSupport;
+  class IDetailed;
+  class IHitBox;
+  class IBullet;
+  class IBulletCollisionPoint;
+  class ISinglePlayer;
+  class IMultiplayer;
+  class IValueAccount;
+  class IServer;
+  class INetwork;
+  class IMap;
+  class IMapParser;
+  class IScriptParser;
+  class IMemory;
+  class IPlayer;
+  class ISocket;
+  class ICollision;
+  class IHardwareSupport;
+  class IRank;
+  class ILevel;
+  class IClassSetup;
 }
 
 #endif
