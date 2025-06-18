@@ -177,6 +177,9 @@ public:
   class IVStrFile;
   class IApplicationScriptSheet;
   class IScheme;
+  class ISound;
+  class IVariableConverter;
+  class INavigationMesh;
 }
 
 #endif
