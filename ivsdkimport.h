@@ -209,6 +209,7 @@ public:
   class IRainEffect;
   class ISnowEffect;
   class IThunderEffect;
+  class IFolder;
 }
 
 #endif
