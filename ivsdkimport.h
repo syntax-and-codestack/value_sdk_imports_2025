@@ -180,6 +180,7 @@ public:
   class ISound;
   class IVariableConverter;
   class INavigationMesh;
+  class IGameUserInterface;
 }
 
 #endif
