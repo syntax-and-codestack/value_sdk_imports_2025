@@ -222,6 +222,11 @@ public:
   class IAxis;
   class IAlly;
   class IBsp;
+  class ICull;
+  class IConvexHull;
+  class IConvexCull;
+  class IBrushList;
+  class IHighlightObject;
 }
 
 #endif
