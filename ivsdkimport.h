@@ -181,6 +181,34 @@ public:
   class IVariableConverter;
   class INavigationMesh;
   class IGameUserInterface;
+  class IAABB;
+  class IHealth;
+  class IAnimation;
+  class IReload;
+  class IGmodel;
+  class IImageImportFile;
+  class IGameMode;
+  class ITeamDeathMatch;//gamemode
+  class IFreeForAll;//gamemode
+  class ICaptureTheFlag;//gamemode
+  class INoGrenadeGame;//gamemode for warfalls
+  class IDomination;//gamemode
+  class ILockdown;//gamemode
+  class IHunt;//gamemode
+  class IGrenadle;//grenades, frags... etc
+  class ITransparentMaterial;
+  class IGtkGuiSupport;
+  class IQtGuiSupport;
+  class IWXSmithGuiSupport;
+  class ITimer;
+  class IMathLib;
+  class IDeath;
+  class ISmokeEffect;
+  class IFogEffect;
+  class IFireEffect;
+  class IRainEffect;
+  class ISnowEffect;
+  class IThunderEffect;
 }
 
 #endif
