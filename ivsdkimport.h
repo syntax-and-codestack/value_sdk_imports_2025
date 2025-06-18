@@ -200,6 +200,7 @@ public:
   class IGtkGuiSupport;
   class IQtGuiSupport;
   class IWXSmithGuiSupport;
+  class IGuiFrameworkSupport;
   class ITimer;
   class IMathLib;
   class IDeath;
@@ -210,6 +211,11 @@ public:
   class ISnowEffect;
   class IThunderEffect;
   class IFolder;
+  class ICrossHair;
+  class IResolution;
+  class IConsolePS4;
+  class IConsolePS5;
+  class IConsoleXboxSeriesX;
 }
 
 #endif
