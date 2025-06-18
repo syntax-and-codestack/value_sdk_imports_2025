@@ -29,7 +29,7 @@ public:
   class IFace;
   class IBrush;
   class IBrushCreator;
-  class IVolume;
+  class IVolumeBox;
   class IMessage;
   class ICamera;
   class IRenderViewport;
@@ -95,7 +95,7 @@ public:
   class IRotate;
   class IScale;
   class ICommandString;
-  class IWin32Support;
+  class IWin32GuiSupport;
   class IDllSupport;
   class ILibSupport;
   class ICommonStream;
@@ -216,6 +216,12 @@ public:
   class IConsolePS4;
   class IConsolePS5;
   class IConsoleXboxSeriesX;
+  class IPathAlgorithm;
+  class IPrecacheModel;
+  class ICivilian;
+  class IAxis;
+  class IAlly;
+  class IBsp;
 }
 
 #endif
