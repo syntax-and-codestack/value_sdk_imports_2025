@@ -231,6 +231,18 @@ public:
   class IBrushCounter;
   class IEntityCounter;
   class IPlayerCounter;
+  class IPlayerList;
+  class IModelList;
+  class IModelCounter;
+  class IToken;
+  class ITokenParser;
+  class IMapParser;
+  class IClipperTool;
+  class IClipPlayer;
+  class IClipMonster;
+  class IClipMiscallaneous;
+  class ILightPortal;
+  class IPortal;
 }
 
 #endif
