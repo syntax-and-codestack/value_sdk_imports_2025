@@ -245,6 +245,9 @@ public:
   class IPortal;
   class IHintTextureLogic;
   class IPageWindow;
+  class ISunLight;
+  class ISunColor;
+  class ISunDiffuseColor;
 }
 
 #endif
