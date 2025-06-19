@@ -248,6 +248,14 @@ public:
   class ISunLight;
   class ISunColor;
   class ISunDiffuseColor;
+  class ISunDirection;
+  class IDocument;
+  class IMultipleDocumentInterface;
+  class IPanelSplitter;
+  class IZombieAi;
+  class IStudentAi;
+  class IStaffAi;
+  class IGameSettings;
 }
 
 #endif
