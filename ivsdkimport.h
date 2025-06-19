@@ -257,6 +257,13 @@ public:
   class IStaffAi;
   class IGameSettings;
   class IScoreCounter;
+  class IApiWrapper;
+  class ITrace;
+  class IRaycast;
+  class IBot;
+  class IWater;
+  class ILiquid;
+  class IReflection;
 }
 
 #endif
