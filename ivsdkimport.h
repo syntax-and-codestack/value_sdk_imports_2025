@@ -26,6 +26,7 @@ public:
   class IModel;
   class IFile;
   class IPlane;
+  class IFaceCounter;
   class IFace;
   class IBrush;
   class IBrushCreator;
@@ -264,6 +265,10 @@ public:
   class IWater;
   class ILiquid;
   class IReflection;
+  class IStoreSubscriptionEntryPage;
+  class IStoreDLCPage;
+  class ISpline;
+  class ITreePlanter;
 }
 
 #endif
