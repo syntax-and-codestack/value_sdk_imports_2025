@@ -243,6 +243,8 @@ public:
   class IClipMiscallaneous;
   class ILightPortal;
   class IPortal;
+  class IHintTextureLogic;
+  class IPageWindow;
 }
 
 #endif
