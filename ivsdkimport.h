@@ -267,8 +267,33 @@ public:
   class IReflection;
   class IStoreSubscriptionEntryPage;
   class IStoreDLCPage;
+  class IStorePageRegisterPurchase;
   class ISpline;
   class ITreePlanter;
+  class IPatch;
+  class IPatchCounter;
+  class IPatchList;
+  class IMeshPainter;
+  class IX86FrameworkArchitecture;
+  class IX64FrameworkArchitecture;
+  class IFrameworkBuildDebug;
+  class IFrameworkBuildRelease;
+  class ITextureDirectory;
+  class IMaterialDirectory;
+  class IShaderDirectory;
+  class IModelDirectory;
+  class IModelBrowserWindow;
+  class IWindowHooker;
+  class IPanelHooker;
+  class IPaymentMethod;
+  class IRigbone;
+  class IRagdoll;
+  class IDummy;
+  class IMatrix;
+  class IColumn;
+  class IRow;
+  class ILine;
+  class ICurve;
 }
 
 #endif
