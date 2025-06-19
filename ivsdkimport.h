@@ -256,6 +256,7 @@ public:
   class IStudentAi;
   class IStaffAi;
   class IGameSettings;
+  class IScoreCounter;
 }
 
 #endif
