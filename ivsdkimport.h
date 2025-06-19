@@ -227,6 +227,10 @@ public:
   class IConvexCull;
   class IBrushList;
   class IHighlightObject;
+  class IEntityList;
+  class IBrushCounter;
+  class IEntityCounter;
+  class IPlayerCounter;
 }
 
 #endif
